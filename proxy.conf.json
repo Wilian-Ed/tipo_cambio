@@ -1,0 +1,7 @@
+{
+  "/api/*":{
+    "target":"https://az.gt/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
